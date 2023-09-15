@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/raj-portfolio/static/css/main.14ce0279.css",
+    "main.js": "/raj-portfolio/static/js/main.b17b6112.js",
+    "static/js/787.f8996b76.chunk.js": "/raj-portfolio/static/js/787.f8996b76.chunk.js",
+    "static/media/bgimage.jpg": "/raj-portfolio/static/media/bgimage.7ebc4051caa2d05b550f.jpg",
+    "static/media/Raj.png": "/raj-portfolio/static/media/Raj.bc70439068c92c5c6a9f.png",
+    "static/media/j.jpg": "/raj-portfolio/static/media/j.791eacb8bf0bc7ddf099.jpg",
+    "static/media/Maps.png": "/raj-portfolio/static/media/Maps.6cccbfd428fbe4d37d06.png",
+    "static/media/proj.jpg": "/raj-portfolio/static/media/proj.52f838e8b7848b36bd33.jpg",
+    "static/media/rover.jpg": "/raj-portfolio/static/media/rover.4536447003e84757fbcd.jpg",
+    "index.html": "/raj-portfolio/index.html",
+    "main.14ce0279.css.map": "/raj-portfolio/static/css/main.14ce0279.css.map",
+    "main.b17b6112.js.map": "/raj-portfolio/static/js/main.b17b6112.js.map",
+    "787.f8996b76.chunk.js.map": "/raj-portfolio/static/js/787.f8996b76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ce0279.css",
+    "static/js/main.b17b6112.js"
+  ]
+}
