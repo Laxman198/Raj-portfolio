@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+.work-card {
+    width: 45%;
+    margin-top: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row-reverse;
+    background-color:black;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    color: white;
+}
+.work-logo {
+    height: 80px;
+}
+.company-name {
+    font-family: PT Sans;
+    font-weight: bold;
+}
+
+.work-info {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    padding-top: 8px;
+    font-family: QuickSand;
+    
+}
+
+.work-desc {
+    text-align: left;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: horizontal;
+    overflow: hidden ;
+    text-overflow: ellipsis;
+    max-width: 80%;
+    margin-top: 10px;
+}
+  
+.work-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 4px 8px rgb(255, 255, 255);
+  }
+.learn-more-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-family: Quicksand;
+  }
+  
+.learn-more-button:hover {
+    background-color: #0056b3;
+}
+
+
+@media only screen and (max-width: 1150px) {
+    .work-card{
+        width: 100%;
+        position: relative;
+    }
+    .work-info {
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        padding-top: 8px;
+        font-family: QuickSand;
+        font-size: 12px;
+        
+    }
+    .work-logo {
+        height: 50px;
+    }
+}
