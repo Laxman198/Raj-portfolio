@@ -65,7 +65,7 @@ function Projects() {
         <ProjectCard
           title="Maxonym"
           imageSrc={bgimage}
-          githubLink="https://github.com/Octrainn/DiscordBot"
+          githubLink=""
           technologies="HTML,CSS, Bootstrap and Javascript."
           description="A Start-up news web application that enables users signup and read different startup news articles."
         />
@@ -80,7 +80,7 @@ function Projects() {
         <ProjectCard
           title="Raj-Portfolio"
           imageSrc={raj}
-          githubLink="https://github.com/Octrainn/TensorFlowModel"
+          githubLink="https://github.com/Laxman198/raj-portfolio"
           technologies="ReactJS, Typescript and CSS."
           description="My portfolio website representing myself and my interest towards web development. "
         />
